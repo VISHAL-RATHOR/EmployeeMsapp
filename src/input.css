@@ -1,0 +1,14 @@
+@import "tailwindcss";   /* ✅ Tailwind core styles */
+
+html {
+  @apply text-white;
+}
+body {
+  background-color: #111;
+  font-family: sans-serif;
+}
+
+
+#tasklist::-webkit-scrollbar{
+  display: none;
+}
