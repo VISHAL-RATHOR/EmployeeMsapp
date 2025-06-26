@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { useState } from 'react'
-import Newtask from '../Tasklist/newtask'
+import Newtask from '../Tasklist/Newtask'
 import { AuthContext } from '../../context/AuthProvider'
 
 
